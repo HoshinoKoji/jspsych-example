@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@jspsych/plugin-html-keyboard-response": "^2.1.0",
     "jspsych": "^8.2.1",
     "lodash": "^4.17.21"
   },
